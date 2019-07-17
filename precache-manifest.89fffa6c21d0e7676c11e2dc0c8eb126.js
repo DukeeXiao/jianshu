@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "./static/media/app-phone.69b812fa.png"
   },
   {
-    "revision": "f8837dd72b2e127c669a",
-    "url": "./static/js/main.f8837dd7.chunk.js"
+    "revision": "f854b60d708456abbca9",
+    "url": "./static/js/main.f854b60d.chunk.js"
   },
   {
     "revision": "ed9583c5975a6d953f47c09ed63b911b",
@@ -28,19 +28,19 @@ self.__precacheManifest = [
     "url": "./static/media/app-pic1.b2e2caa2.png"
   },
   {
-    "revision": "57cb293a18ff6f53d69e",
-    "url": "./static/js/2.57cb293a.chunk.js"
+    "revision": "4215ab7814cd6e8e1c41",
+    "url": "./static/js/2.4215ab78.chunk.js"
   },
   {
     "revision": "79be1d06bd1e4a13fd99",
     "url": "./static/js/1.79be1d06.chunk.js"
   },
   {
-    "revision": "57cb293a18ff6f53d69e",
+    "revision": "4215ab7814cd6e8e1c41",
     "url": "./static/css/2.a361fddf.chunk.css"
   },
   {
-    "revision": "a4637ff9e2058594df37ae1239b1a4c4",
+    "revision": "f72ea40ba2a6b9369063d6c041eaaaa3",
     "url": "./index.html"
   }
 ];
